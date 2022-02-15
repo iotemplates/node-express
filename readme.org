@@ -1,7 +1,7 @@
-* Node Template
+* Node + Express Template
 
 
 [[../../actions/workflows/build.yml/badge.svg]]
 
 
-A simple node project template.
+A simple node + express project template.
